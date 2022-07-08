@@ -1,0 +1,21 @@
+<svg width="59" height="59" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_0:6122" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="59" height="59">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H59V59H0V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_0:6122)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M59 29.5003C59 45.7919 45.7919 59.0009 29.4989 59.0009C13.207 59.0009 0 45.7919 0 29.5003C0 13.2087 13.207 -0.000244141 29.4989 -0.000244141C45.7919 -0.000244141 59 13.2087 59 29.5003Z" fill="#C9CEBD"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M23.9614 33C19.3011 31.1942 16 26.6917 16 21.4224C16 14.5618 21.5966 9 28.5 9C35.4034 9 41 14.5618 41 21.4224C41 26.6883 37.7023 31.1897 33.0455 32.9977" fill="#AA4465"/>
+<path d="M23.9614 33C19.3011 31.1942 16 26.6917 16 21.4224C16 14.5618 21.5966 9 28.5 9C35.4034 9 41 14.5618 41 21.4224C41 26.6883 37.7023 31.1897 33.0455 32.9977" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M28.0585 56V54.9048C24.7495 53.2959 23.3968 48.4702 20.0878 43.9524C19.4535 43.086 22.4255 41.7422 23.6017 42.8571C24.7768 43.971 26.9688 46.1429 26.9688 46.1429H28.0585V35.1905C28.0585 33.9802 29.0788 33 30.3359 33C31.593 33 32.6132 33.9802 32.6132 35.1905V41.7619L40.5282 43.338C42.4503 43.707 44 45.0476 44 47.2381V52.7143C44 53.9464 42.8613 54.861 42.8613 56" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M26 24.7V25.8C26 27.0144 26.927 28 28.031 28H30.031C31.136 28 32 27.0144 32 25.8V25.1851C32 24.238 31.465 23.3976 30.648 23.0984L27.375 21.9005C26.559 21.6024 26 20.7609 26 19.8149V19.2C26 17.9856 26.927 17 28.031 17H30.031C31.136 17 32 17.9856 32 19.2V20.3" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M29.5 17V14" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M29.5 27V30" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M29.5 3V7" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M16 7L19 10" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M10 22.5H14" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M16 36L19 33" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M43 36L40 33" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M49 22.5H45" stroke="#2A2B2E" stroke-width="2"/>
+<path d="M43 7L40 10" stroke="#2A2B2E" stroke-width="2"/>
+</svg>
